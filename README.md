@@ -1,4 +1,7 @@
 # todo
-Personal todo list
+### Personal todo list
 
--[ ] Implement Hirschberg's algorithm in Objective-C
+- [ ] Algorithm: Hirschberg's algorithm in Objective-C
+- [ ] Math: Calculus, Linear Algebra, Probability, Statistics, and Optimization.
+
+### 
